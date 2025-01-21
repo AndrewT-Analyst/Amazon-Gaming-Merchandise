@@ -7,3 +7,5 @@ In the Excel file, "amazon_gaming_merch_updated.xlsx", you can see interactive d
 Enjoy!
 
 This project was created by Andrew Tsentner(https://www.linkedin.com/in/tsentner/) & Manuel Crugliano (https://www.linkedin.com/in/manuel-crugliano/)
+
+Thank you to Kanchana1990 for uploading the original dataset to Kaggle. (https://www.kaggle.com/datasets/kanchana1990/amazon-best-sellers-2024-gaming-merchandise)
